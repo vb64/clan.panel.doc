@@ -14,6 +14,11 @@ Contents:
    intro
    events
    vehicles
+   activity
+   companies
+   attendance
+   online
+   stronghold
 
 Indices and tables
 ==================
