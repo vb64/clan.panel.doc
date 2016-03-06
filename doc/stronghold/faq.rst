@@ -54,12 +54,12 @@ First of all, provision of cover does not fall under the definition of a "rigged
 
    Let's start from the definition: rigged battles are battles that are specifically organized for achieving abnormally high statistical results and winning rare rewards.
 
-.. figure:: images/stronghold/wg_msg01.png
+.. figure:: /images/stronghold/wg_msg01.png
    :alt: ru portal link
 
 Also, the developers have given a direct answer to this question.
 
    There will be no bans for throwing chips into battle.
 
-.. figure:: images/stronghold/wg_msg02.png
+.. figure:: /images/stronghold/wg_msg02.png
    :alt: ru forum link
