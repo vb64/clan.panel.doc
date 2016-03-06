@@ -5,7 +5,7 @@ For clans using paid plans ("Base" or "Premium"), a summary of the clan's daily 
 The cell for each day on the calendar shows each clan member who has had at least one battle that day. 
 If you hover over the cell for a certain day, a tooltip will appear showing the clan members' average number of battles for that day.
 
-.. figure:: images/online/daily.jpg
+.. figure:: online_daily.jpg
    :alt: Track daily and hourly clan activity
 
 If your clan uses free plan, you can try this function for free by turning on the "Base" service mode for thirty days. 
@@ -17,7 +17,7 @@ For clans using "Premium" plan, online information about the clan's hourly onlin
 For each hour of the current and previous day, this chart shows the number of clan members who have had battles in this hour. 
 The chart is updated at the beginning of every hour.
 
-.. figure:: images/online/hourly.jpg
+.. figure:: online_hourly.jpg
    :alt: Hourly online activity
 
 A similar graph can be seen for any day in the past, starting from the moment the clan starts using "Premium" mode. 
@@ -27,13 +27,13 @@ If you click on the hour column in the chart, you can see the list of players, w
 When viewing the results of a query, you can select any interval in hours (the size of interval cannot exceed 24 hours) for any day.
 On this day, the clan must have an active premium plan into clan-panel.
 
-.. figure:: images/online/hourly_period.jpg
+.. figure:: online_hourly_period.jpg
    :alt: Selected period (hourly)
 
 Player's names in that list are links through which you can view an hourly chart of the chosen player's battles for that day.
 The chart's bars represent the number of the player's battles for each hour.
 
-.. figure:: images/online/current.jpg
+.. figure:: online_current.jpg
    :alt: Player's battles for a day
 
 Additionally, a similar chart for the present and previous days is available in the "Online" tab of the data section of the player's account.
