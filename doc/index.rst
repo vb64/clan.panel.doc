@@ -19,4 +19,4 @@ Contents:
    company_example.rst
    attendance
    online
-   stronghold
+   .. include:: stronghold/index.rst
