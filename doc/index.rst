@@ -16,6 +16,7 @@ Contents:
    vehicles
    activity
    companies
+   company_example.rst
    attendance
    online
    stronghold
