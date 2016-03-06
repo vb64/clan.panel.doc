@@ -20,16 +20,15 @@ Sort the table of the clan members by "Activity for period", "Days: 7", "Battles
 You should select first 14 players in the left column, then locate and select yourself. 
 Then you specify a tag and a company title in the corresponding fields and click the "Form a company" button below.
 
-**Notice.**
+.. note:: Notice.
+   Member activity data begin accumulating since the moment the clan was added to the website. 
+   If you just added your clan to the website, the activity data will not be available.
 
-*Member activity data begin accumulating since the moment the clan was added to the website. 
-If you just added your clan to the website, the activity data will not be available.
+   Complete data on player activity for last 7 and 30 days will be available after a week and a month respectively starting from the moment the clan was added. 
+   Besides, it also matters how regularly you update the data of your clan, if a free mode of service is used.
 
-Complete data on player activity for last 7 and 30 days will be available after a week and a month respectively starting from the moment the clan was added. 
-Besides, it also matters how regularly you update the data of your clan, if a free mode of service is used.
-
-In this example, the WG clan is serviced since 2012 and data are automatically renewed daily. 
-So you have full and reliable information on activity of members during the given period.*
+   In this example, the WG clan is serviced since 2012 and data are automatically renewed daily. 
+   So you have full and reliable information on activity of members during the given period.*
 
 .. figure:: images/company/setup_new.jpg
    :alt: New setup
@@ -114,7 +113,5 @@ and informs them on which tanks they should prepare for CW battles by purchasing
 
 The task assigned by clan command is accomplished.
 
-**Disclaimer.**
-
-*Tags of clans, player nicknames and their skill levels used in the above example are fictional. Any resemblances are coincidental.*
-
+.. note:: Disclaimer.
+   Tags of clans, player nicknames and their skill levels used in the above example are fictional. Any resemblances are coincidental.
