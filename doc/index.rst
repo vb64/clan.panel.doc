@@ -15,8 +15,7 @@ Contents:
    events
    vehicles
    activity
-   companies
-   company_example.rst
+   companies/index.rst
    attendance
    online
    stronghold/index.rst

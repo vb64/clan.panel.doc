@@ -4,12 +4,12 @@ Example of usage the clan's company function
 Let's say you're a field commander SerB of the WG clan and you've been assigned a task to create an effective company to fight in CW. 
 The first goal is to land on GM on the map "Sand river".
 
-.. figure:: images/company/start.jpg
+.. figure:: /images/company/start.jpg
    :alt: Click the 'New company' link.
 
 Authorize on the site, switch to the WG clan page and open "Management". Click the "New company" link.
 
-.. figure:: images/company/company_new.jpg
+.. figure:: /images/company/company_new.jpg
    :alt: New company
 
 You see plenty of nicknames, but you don't know who well they all play. 
@@ -30,7 +30,7 @@ Then you specify a tag and a company title in the corresponding fields and click
    In this example, the WG clan is serviced since 2012 and data are automatically renewed daily. 
    So you have full and reliable information on activity of members during the given period.*
 
-.. figure:: images/company/setup_new.jpg
+.. figure:: /images/company/setup_new.jpg
    :alt: New setup
 
 Now switch to the company editor. You should decide what vehicles your new company will play.
@@ -38,14 +38,14 @@ Now switch to the company editor. You should decide what vehicles your new compa
 Suppose, you decided to use the following setup for the task: two arty "Object 261", 3 "Bat. Chattillons", 2 tank destroyers "Object 268", 8 T-62A. 
 Click the "New setup" link.
 
-.. figure:: images/company/setup_edit.jpg
+.. figure:: /images/company/setup_edit.jpg
    :alt: Edit setup's vehicles
 
 Open the list of X level vehicles and select tanks we need with checkmarks. 
 Specify the desired number in the boxes that appears next to tanks. 
 Name the setup and click the "Save" button at the bottom of the page.
 
-.. figure:: images/company/setup_view.jpg
+.. figure:: /images/company/setup_view.jpg
    :alt: View members with setup
 
 Now open the company setup edit page. 
@@ -58,24 +58,24 @@ Click the "Save members roles in setup" button.
 
 Players we selected appear in the "Stuff list" table below the "Company members" table.
 
-.. figure:: images/company/stuff_list.jpg
+.. figure:: /images/company/stuff_list.jpg
    :alt: Stuff list for setup
 
 Repeat these steps for the rest vehicles in your setup. Eventually, you'll have the following results.
 
-.. figure:: images/company/roles_edit.jpg
+.. figure:: /images/company/roles_edit.jpg
    :alt: Edit members roles in stuff list
 
 The company is up to strength with artys, batchats and 268, but we still miss two T-62A.
 
 At the same time players GrimRat and Sorell either do not have the corresponding machines or have too low skills for your victorious company.
 
-.. figure:: images/company/members_add.jpg
+.. figure:: /images/company/members_add.jpg
    :alt: Add members to company
 
 You must find players for two MTs. Click the "Add members" link.
 
-.. figure:: images/company/members_select.jpg
+.. figure:: /images/company/members_select.jpg
    :alt: Select members for company
 
 The opened table lists all clan members that aren't part of your company yet and do have at least one tank from your current setup. 
@@ -88,7 +88,7 @@ Click the "Add selected" button.
 On the setup edit page find the new company members and assign "T-62A" as a default tank to him by putting the checkmark in the corresponding cell 
 and clicking the "Save members roles in setup" button.
 
-.. figure:: images/company/members_edit.jpg
+.. figure:: /images/company/members_edit.jpg
    :alt: Edit members list
 
 Now you should expel all scrubs spoiling your victorious company without mercy. Click the "Back to company edit" link.
@@ -98,14 +98,14 @@ Now you should expel all scrubs spoiling your victorious company without mercy. 
 
 Select all combatants you don't need in the left column, select "Remove from company" and click the "Execute" button.
 
-.. figure:: images/company/company_show.jpg
+.. figure:: /images/company/company_show.jpg
    :alt: View company
 
 Switch to the public section "Companies", find our company, 
 click it and below the member table find the table of company setups, 
 click the "CW sand river" line and see our glorious setup.
 
-.. figure:: images/company/setup_show.jpg
+.. figure:: /images/company/setup_show.jpg
    :alt: View setup of the company
 
 Publish the link to this page on clan's forum to notify members that they are enrolled to the new company 

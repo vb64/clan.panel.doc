@@ -1,3 +1,11 @@
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   forming
+   example
+
 Forming and supporting a clan company
 =====================================
 
