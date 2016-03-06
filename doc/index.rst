@@ -8,10 +8,10 @@
 .. _North America: http://clan-panel-na.appspot.com
 .. _Southeast Asia: http://clan-panel-sea.appspot.com
 
-Welcome to Clan-panel WOT's documentation!
+Welcome to Clan-panel WOT documentation!
 ==========================================
 
-Clan-panel it is a web-site, intended to help WorldOfTanks clan administrators (leader, deputies, recruiters, commanders) to solve typical problems:
+Clan-panel is a web-site, intended to help WorldOfTanks clan administrators (leader, deputies, recruiters, commanders) to solve typical problems:
 
 * track clan events
 * clan vehicles accounting
