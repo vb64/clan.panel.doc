@@ -11,4 +11,7 @@ Officers in your clan will have access to the "Defense of Stronghold" button on 
    :maxdepth: 2
 
    defense
+   tasks
+   def_changes
+   attack
    faq
