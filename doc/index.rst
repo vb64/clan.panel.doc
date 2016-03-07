@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 .. _Russia: http://clan-panel-ru.appspot.com
-.. _Europe: http://clan-panel-ru.appspot.com
+.. _Europe: http://clan-panel.appspot.com
 .. _North America: http://clan-panel-na.appspot.com
 .. _Southeast Asia: http://clan-panel-sea.appspot.com
 
