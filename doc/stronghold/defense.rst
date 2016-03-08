@@ -47,7 +47,7 @@ What coordinators require from alliance members
 
 To make sure that the clan's ally support tasks contain no errors (for example, a task to cover an ally with the same defense hour), 
 all clans with an activated procedure of changing a day off and/or defense hour and the changes currently pending need to fill out the details of these changes. 
-More information can be found here: :ref:`sh-def_changes-label`.
+More information can be :role:`found here <sh-def_changes-label>`.
 
 For quick and efficient communications between you and other members of the alliance, 
 it is recommended that you specify the contact details of your clan (voice chat server address, key nicknames, etc.) 
