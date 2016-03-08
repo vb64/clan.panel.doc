@@ -47,7 +47,7 @@ What coordinators require from alliance members
 
 To make sure that the clan's ally support tasks contain no errors (for example, a task to cover an ally with the same defense hour), 
 all clans with an activated procedure of changing a day off and/or defense hour and the changes currently pending need to fill out the details of these changes. 
-More information can be found here.
+More information can be :doc:`found here <def_changes.rst>`.
 
 For quick and efficient communications between you and other members of the alliance, 
 it is recommended that you specify the contact details of your clan (voice chat server address, key nicknames, etc.) 
@@ -66,7 +66,7 @@ and will be read by the clan panel.
 Tasks that are not yet available, but will become available soon, have a corresponding comment in the last column. 
 This comment specifies the time remaining till the moment when the task will become available.
 
-The rules of creating ally coverage tasks are described in detail here.
+The rules of creating ally coverage tasks are described :doc:`in detail here <tasks.rst>`.
 
 Bids for covering allies
 ------------------------
