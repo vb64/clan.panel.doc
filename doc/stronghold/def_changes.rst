@@ -1,4 +1,3 @@
-.. _sh-def_changes-label:
 How to send an update in the clan's defense settings to the clan panel
 ======================================================================
 

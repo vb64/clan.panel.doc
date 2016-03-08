@@ -66,7 +66,7 @@ and will be read by the clan panel.
 Tasks that are not yet available, but will become available soon, have a corresponding comment in the last column. 
 This comment specifies the time remaining till the moment when the task will become available.
 
-The rules of creating ally coverage tasks are described in detail here: :ref:`sh-tasks-label`.
+The rules of creating ally coverage tasks are :doc:`described in detail here <tasks>`.
 
 Bids for covering allies
 ------------------------

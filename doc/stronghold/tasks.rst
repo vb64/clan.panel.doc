@@ -1,4 +1,3 @@
-.. _sh-tasks-label:
 How the ally cover task list is formed for a clan
 =================================================
 
